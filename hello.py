@@ -1,2 +1,2 @@
-print('Hello World');
-print('Test String');
+print('Hello World')
+print('Other Thing')
